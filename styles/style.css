@@ -1,11 +1,11 @@
 h1{
     text-align: center;
-    font-family:Georgia;
+    font-family: 'Montez', cursive;
     margin-bottom: 12px;
 }
 
 h3{
-    font-style: italic;
+    font-family: 'Cabin Sketch', sans-serif;
     margin-bottom: 15px;
     margin-top: 15px;
 }
@@ -13,11 +13,31 @@ h4{
     margin-bottom: 15px;
     margin-top: 15px;
 }
+a{
+    font-family: 'Cabin Sketch', sans-serif;
+}
 
 ul{
     margin-bottom: 10px;
     margin-top: 10px;
 }
+
+html{
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FFF6F6;
+}
+
+hr{
+    border: 5px dotted red;
+    border-bottom-width: 0px;
+    width: 4rem;
+}
+div{
+    margin-bottom: 2rem;
+}
+
 
 #role{
     text-align:center ;
@@ -27,8 +47,27 @@ ul{
     font-size: medium;
 }
 
-body{
-    margin-top: 15px;
-    margin-left: 50px;
-    margin-right: 50px;
+.summary{
+    background-color: #FFF6F6;
 }
+
+.workExperiance{
+    background-color: #FFF6F6;
+
+}
+
+.skills{
+    background-color: #FFF6F6;
+
+}
+
+.education{
+    background-color: #FFF6F6;
+
+}
+
+.personalProjects{
+    background-color: #FFF6F6;
+
+}
+
